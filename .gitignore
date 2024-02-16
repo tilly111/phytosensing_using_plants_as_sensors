@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+venv
+plots/*
+neural_network/*
+classical_ml.py
+cutting.py
+feature_extraction.py
+get_times.py
+slicing.py
+test.py
